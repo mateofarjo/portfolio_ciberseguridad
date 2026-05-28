@@ -7,7 +7,7 @@ Encontrar la contraseña que se encuentra almacenada en el archivo `data.txt`, o
 - Filtrar resultados usando caracteres especiales como patrón de búsqueda.
 - Comandos: `strings`,`grep`.
 ## Comandos usados
-ssh bandit8@bandit.labs.overthewire.org -p 2220
+ssh bandit9@bandit.labs.overthewire.org -p 2220
 ls
 strings data.txt | grep "==="
 ## Contraseña obtenida
